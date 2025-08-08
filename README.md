@@ -1,4 +1,4 @@
- in this task, i analyzed historical stock/Revenue Data and Built a Dashboard.
+In this task, i analyzed historical stock/Revenue Data and Built a Dashboard.
 Here is the breakdown:
 Task 1 - I extracted Tesla Stock Data Using yfinance  
 Task 2 - Extracted Tesla Revenue Data Using Webscraping  
